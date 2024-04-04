@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- You can find my SQL portfolio here.
+- You can find my SQL portfolio [here](https://github.com/cheyenneneese/SQL-Projects).
 - I'm currently working on improving my skills in R and SQL
 - I'm passionate about health, economics, and process improvement
 
