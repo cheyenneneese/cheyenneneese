@@ -4,8 +4,6 @@
 - I'm currently working on improving my skills in R and SQL
 - I'm passionate about health, economics, and process improvement
 
-View my [LinkedIn Profile](www.linkedin.com/in/cheyenneneese)
-
 Languages and Data Analytics Tools:
 - SQL
 - R Programming
