@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+- You can find my SQL portfolio here.
+- I'm interested in improving my skills in R and SQL
+- I'm passionate about health, economics, and process improvement
+
+View my LinkedIn Profile
+
+Languages and Data Analytics Tools:
+-SQL
+-R Programming
+-Microsoft Excel
+-SPSS
+
+Data Visualization Tools
+-Microsoft Excel 
+-Tableau
+
+Questionnaire Design 
+-Qualtircs
+
+Project Management Tools
+- Trello
+- Slack
+- Microsoft Planner
+- Notion
+
+
 <!--
 **cheyenneneese/cheyenneneese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
