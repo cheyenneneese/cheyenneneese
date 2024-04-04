@@ -5,10 +5,11 @@
 - I'm passionate about health, economics, and process improvement
 
 Languages and Data Analytics Tools:
+- SPSS
+- Microsoft Excel
+- SAS
 - SQL
 - R Programming
-- Microsoft Excel
-- SPSS
 
 Data Visualization Tools
 - Microsoft Excel 
